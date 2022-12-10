@@ -40,7 +40,8 @@ canvas
       box-shadow:  5px 5px 5px white;
   }
 
-  body{
+  body
+  {
     background-position: center;
     background-size: cover;
   }
